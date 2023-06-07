@@ -1,0 +1,7 @@
+https://spring.io/guides/gs/accessing-data-jpa/
+https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
+https://www.bezkoder.com/spring-boot-mongodb-crud/
+https://www.bezkoder.com/spring-boot-jpa-h2-example/
+Spring Boot Creacion de un API con Base De Datos H2. CONTROLADOR —>https://www.youtube.com/watch?v=p6yf_EN2s_8
+Como crear una API RESTful con Spring Boot y MongoDB—>https://www.youtube.com/watch?v=cqJRd4eRqVU
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
